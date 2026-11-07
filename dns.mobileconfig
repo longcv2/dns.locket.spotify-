@@ -60,9 +60,9 @@
         </dict>
     </array>
     <key>PayloadDescription</key>
-    <string>hoi tro lh admin</string>
+    <string>bản quyền bởi longcv</string>
     <key>PayloadDisplayName</key>
-    <string>locket.com</string>
+    <string>longcv</string>
     <key>PayloadIdentifier</key>
     <string>com.camsitup.locket.dns_profile.nguyenvanquan2005</string>
     <key>PayloadRemovalDisallowed</key>
